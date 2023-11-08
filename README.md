@@ -1,3 +1,15 @@
+# Breeze dark theme for FontForge
+
+This fork takes a lot of the original, but changes to make it more palatable on KDE.
+
+Be mindful that it's a quick and dirty theme, there are bugs, there are issues, and is provided as is.
+
+Below is the original Readme. In the installation paragraph, replace `dark.theme` with `kde-breeze-dark.theme`.
+
+Also, if the images don't load in the UI, you might want to edit their path.
+
+Finally, it took me a while to find it (even tho it's quite visible), but there is an UI editor integrated, in the File menu (below Preferences).
+
 # Dark Theme For FontForge
 
 A dark theme for [FontForge](http://fontforge.org)
@@ -19,13 +31,6 @@ A dark theme for [FontForge](http://fontforge.org)
 *  `/usr/local/share/fontforge/pixmaps/` - UNIX
 
 2. Load FontForge and go open the `File > Preferences` dialog, and set the `ResourceFile` preference to the `dark.theme` file in the above pixmaps folder.
-
-
-## Screenshots
-
-<img src="https://raw.githubusercontent.com/mooniak/mac-fontforge/master/_screenshots/screen_2.png" alt>
-<img src="https://raw.githubusercontent.com/mooniak/mac-fontforge/master/_screenshots/screen_3.png" alt>
-<img src="https://raw.githubusercontent.com/mooniak/mac-fontforge/master/_screenshots/screen_4.png" alt>
 
 ## Known Issues
 
