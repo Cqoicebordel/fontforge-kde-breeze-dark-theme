@@ -2,7 +2,7 @@
 
 This fork takes a lot of the original, but changes to make it more palatable on KDE.
 
-Be mindful that it's a quick and dirty theme, there are bugs, there are issues, and is provided as is.
+Be mindful that it's a quick and dirty theme, there are bugs, there are issues, lots of missing bits, and non tested bits, and is provided as is.
 
 Below is the original Readme. In the installation paragraph, replace `dark.theme` with `kde-breeze-dark.theme`.
 
